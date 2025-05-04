@@ -1,15 +1,17 @@
 const COLORS = {
     wispyBlue: '#8CABD9',
     wispyPink: '#F6A7B8',
-    wispyYello: '#F1EC7A',
+    wispyYellow: '#F1EC7A',
     wispyNavy: '#1D4D9F',
     wispyOrange: '#F08838',
     wispyBlack: '#000000',
     wispyWhite: '#FFFFFF',
-    wispyButtonYello:'F1E150',
-    wispyTextBlue: '009DFF',
+    wispyButtonYellow: '#F1E150',
+    wispyTextBlue: '#009DFF',
     wispyRed: '#FF5252',
     wispyGrey: '#808080',
-};
-
+    wispyDarkerPink: '#E55C5F',
+  };
+  
 export default COLORS;
+  
