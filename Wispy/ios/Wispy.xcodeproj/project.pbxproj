@@ -9,8 +9,17 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-Wispy.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-Wispy.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		3B708118182147F28905276F /* SUIT-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8963C6E08EAC4711B52C9303 /* SUIT-Medium.ttf */; };
+		71C4A096F0F544A5A877E00F /* SUIT-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D0FB7385CE3C4827AE3C3114 /* SUIT-ExtraLight.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
+		8026CE4679B34BD4B045A60A /* SUIT-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7741F8C7C83B44D8AA4B99C6 /* SUIT-Heavy.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		9533A6238ED24F03A4FFE072 /* SUIT-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BCC295B9CDBE498391983CEE /* SUIT-Light.ttf */; };
+		A53B9F6507FC4CF28183BAE3 /* SUIT-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48C39DCDE7E14C2594398B93 /* SUIT-SemiBold.ttf */; };
+		A81AB9723BE04351A4F49961 /* SUIT-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A6B183B419D24E609FF6BCF5 /* SUIT-Regular.ttf */; };
+		B723F563157949ABB4BB0750 /* SUIT-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DA00A1F5E91A46DDB7293539 /* SUIT-Thin.ttf */; };
+		E377E87DBC9D48E98E2262C0 /* SUIT-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 74026AF49A50401A897A79A2 /* SUIT-ExtraBold.ttf */; };
+		E598640F6A574BC0B7CBD7CF /* SUIT-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DAF50E3E9CB440BCB498820A /* SUIT-Bold.ttf */; };
 		ED3A32DD03093C7F251D6304 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 /* End PBXBuildFile section */
 
@@ -20,10 +29,19 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Wispy/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = Wispy/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-Wispy.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Wispy.debug.xcconfig"; path = "Target Support Files/Pods-Wispy/Pods-Wispy.debug.xcconfig"; sourceTree = "<group>"; };
+		48C39DCDE7E14C2594398B93 /* SUIT-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-SemiBold.ttf"; path = "../assets/fonts/SUIT-SemiBold.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-Wispy.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Wispy.release.xcconfig"; path = "Target Support Files/Pods-Wispy/Pods-Wispy.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-Wispy.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Wispy.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		74026AF49A50401A897A79A2 /* SUIT-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-ExtraBold.ttf"; path = "../assets/fonts/SUIT-ExtraBold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = Wispy/AppDelegate.swift; sourceTree = "<group>"; };
+		7741F8C7C83B44D8AA4B99C6 /* SUIT-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Heavy.ttf"; path = "../assets/fonts/SUIT-Heavy.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Wispy/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8963C6E08EAC4711B52C9303 /* SUIT-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Medium.ttf"; path = "../assets/fonts/SUIT-Medium.ttf"; sourceTree = "<group>"; };
+		A6B183B419D24E609FF6BCF5 /* SUIT-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Regular.ttf"; path = "../assets/fonts/SUIT-Regular.ttf"; sourceTree = "<group>"; };
+		BCC295B9CDBE498391983CEE /* SUIT-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Light.ttf"; path = "../assets/fonts/SUIT-Light.ttf"; sourceTree = "<group>"; };
+		D0FB7385CE3C4827AE3C3114 /* SUIT-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-ExtraLight.ttf"; path = "../assets/fonts/SUIT-ExtraLight.ttf"; sourceTree = "<group>"; };
+		DA00A1F5E91A46DDB7293539 /* SUIT-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Thin.ttf"; path = "../assets/fonts/SUIT-Thin.ttf"; sourceTree = "<group>"; };
+		DAF50E3E9CB440BCB498820A /* SUIT-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SUIT-Bold.ttf"; path = "../assets/fonts/SUIT-Bold.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -75,6 +93,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				F4EE6BE5100C4B0E854DA43E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +115,22 @@
 				5709B34CF0A7D63546082F79 /* Pods-Wispy.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		F4EE6BE5100C4B0E854DA43E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				DAF50E3E9CB440BCB498820A /* SUIT-Bold.ttf */,
+				74026AF49A50401A897A79A2 /* SUIT-ExtraBold.ttf */,
+				D0FB7385CE3C4827AE3C3114 /* SUIT-ExtraLight.ttf */,
+				7741F8C7C83B44D8AA4B99C6 /* SUIT-Heavy.ttf */,
+				BCC295B9CDBE498391983CEE /* SUIT-Light.ttf */,
+				8963C6E08EAC4711B52C9303 /* SUIT-Medium.ttf */,
+				A6B183B419D24E609FF6BCF5 /* SUIT-Regular.ttf */,
+				48C39DCDE7E14C2594398B93 /* SUIT-SemiBold.ttf */,
+				DA00A1F5E91A46DDB7293539 /* SUIT-Thin.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +196,15 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				ED3A32DD03093C7F251D6304 /* PrivacyInfo.xcprivacy in Resources */,
+				E598640F6A574BC0B7CBD7CF /* SUIT-Bold.ttf in Resources */,
+				E377E87DBC9D48E98E2262C0 /* SUIT-ExtraBold.ttf in Resources */,
+				71C4A096F0F544A5A877E00F /* SUIT-ExtraLight.ttf in Resources */,
+				8026CE4679B34BD4B045A60A /* SUIT-Heavy.ttf in Resources */,
+				9533A6238ED24F03A4FFE072 /* SUIT-Light.ttf in Resources */,
+				3B708118182147F28905276F /* SUIT-Medium.ttf in Resources */,
+				A81AB9723BE04351A4F49961 /* SUIT-Regular.ttf in Resources */,
+				A53B9F6507FC4CF28183BAE3 /* SUIT-SemiBold.ttf in Resources */,
+				B723F563157949ABB4BB0750 /* SUIT-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +304,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J4KK9T95PG;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = Wispy/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
@@ -288,6 +333,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = J4KK9T95PG;
 				INFOPLIST_FILE = Wispy/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -376,10 +422,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
@@ -448,10 +491,7 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					" ",
-				);
+				OTHER_LDFLAGS = "$(inherited)  ";
 				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
 				USE_HERMES = true;
